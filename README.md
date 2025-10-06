@@ -1,5 +1,5 @@
 <p align="center">
-  <img src= "C:\Users\vivvi\Downloads\name_banner.png" alt="Srivishnuvarthan's Profile Banner" />
+  <img src= "[C:\Users\vivvi\Downloads\name_banner.png](https://github.com/srivishnuvarthan-07/srivishnuvarthan-07/blob/main/name_banner.png?raw=true)" alt="Srivishnuvarthan's Profile Banner" />
 </p>
 <div align="center">
 
