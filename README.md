@@ -27,13 +27,13 @@
   </tr>
 </table>
 
-<div align="center">
+<!-- <div align="center">
   <h2>💻 Technical Skills</h2>
   <p>Languages, frameworks, and tools I'm proficient with.</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,mysql,postgresql,react,nodejs,spring,pandas,numpy,git,docker,aws,postman,vscode&perline=8" />
   </a>
-</div>
+</div> -->
 <div align="center">
   <h2>My Skill Set</h2>
   <a href="https://skillicons.dev">
