@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/56fe38b3-21b3-49f9-8ebf-a435a59c5f24"
+  <img src="https://github.com/user-attachments/assets/3890fa24-ae36-4a94-929c-a1e7a626da7a"
  alt="Srivishnuvarthan's Profile Banner" />
 </p>
 <div align="center">
