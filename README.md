@@ -29,3 +29,25 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/monster_14?theme=dark&font=Noto%20Sans%20JP" alt="LeetCode Stats for monster_14"/>
 </p>
+## 💻 Technical Skills
+
+### Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,mysql,postgresql" />
+  </a>
+</p>
+
+### Frameworks & Libraries
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,spring,pandas,numpy" />
+  </a>
+</p>
+
+### Tools & Platforms
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,aws,postman,vscode" />
+  </a>
+</p>
