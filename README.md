@@ -34,3 +34,9 @@
     <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,mysql,postgresql,react,nodejs,spring,pandas,numpy,git,docker,aws,postman,vscode&perline=8" />
   </a>
 </div>
+<div align="center">
+  <h2>My Skill Set</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=all&perline=15" />
+  </a>
+</div>
