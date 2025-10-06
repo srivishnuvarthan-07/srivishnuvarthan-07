@@ -1,26 +1,6 @@
-
-> # Srivishnuvarthan
-> **Competitive Programmer | Problem Solver**
-
-<table align="center" style="background-color:#161B22; border:1px solid #30363d; border-radius:8px; width:auto;">
-  <tr>
-    <td style="padding:15px; text-align:center;">
-      <h1 style="color:#c9d1d9; margin:0;">Srivishnuvarthan</h1>
-      <p style="color:#8b949e; margin:5px 0 0 0;">Competitive Programmer | Algorithms & Data Structures Enthusiast</p>
-    </td>
-  </tr>
-</table>
-
-<table align="center" style="background-image: linear-gradient(to right, #243949, #517fa4); border-radius:8px; width:auto;">
-  <tr>
-    <td style="padding:15px; text-align:center;">
-      <h1 style="color:#ffffff; margin:0;">Srivishnuvarthan</h1>
-      <p style="color:#e0e0e0; margin:5px 0 0 0;">Logic. Code. Conquer.</p>
-    </td>
-  </tr>
-</table>
-
-
+<p align="center">
+  <img src="YOUR_IMAGE_LINK_HERE" alt="Srivishnuvarthan's Profile Banner" />
+</p>
 <div align="center">
 
 ### 📊 My GitHub Stats
