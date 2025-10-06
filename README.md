@@ -29,6 +29,3 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/monster_14?theme=dark&font=Noto%20Sans%20JP" alt="LeetCode Stats for monster_14"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/leetcode?username=monster_14&theme=tokyonight" alt="LeetCode Stats for monster_14" />
-</p>
