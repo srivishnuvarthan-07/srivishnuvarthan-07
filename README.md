@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3890fa24-ae36-4a94-929c-a1e7a626da7a" alt="Srivishnuvarthan's Profile Banner" />
-</p>
+
 
 <table align="center" style="border:none; width:100%;">
   <tr style="border:none;">
@@ -27,16 +25,10 @@
   </tr>
 </table>
 
-<!-- <div align="center">
+ <div align="center">
   <h2>💻 Technical Skills</h2>
   <p>Languages, frameworks, and tools I'm proficient with.</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,mysql,postgresql,react,nodejs,spring,pandas,numpy,git,docker,aws,postman,vscode&perline=8" />
   </a>
-</div> -->
-<div align="center">
-  <h2>My Skill Set</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=all&perline=15" />
-  </a>
-</div>
+</div> 
