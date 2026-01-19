@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/LeetCode-1847-black?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode Rating 1847"/>
 </a>
 <a href="https://codeforces.com/profile/sri_vishnu07" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-2235-FF8C00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Rating 2235"/>
+  <img src="https://img.shields.io/badge/Codeforces-1422-FF8C00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Rating 1422"/>
 </a>
   <a href="mailto:vivvishnu321@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -22,30 +22,36 @@
     <img src="https://img.shields.io/badge/Codolio-FF6F00?style=for-the-badge&logo=codio&logoColor=white" alt="Codolio"/>
   </a>
 </p>
-<table align="center" style="border:none; width:100%;">
-  <tr style="border:none;">
-    <td width="50%" valign="top" style="border:none;">
-      <div align="center">
-        <h3>📊 GitHub Stats</h3>
-        <p>A little snapshot of my journey as a developer.</p>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=srivishnuvarthan-07&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-        <br>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srivishnuvarthan-07&layout=compact&locale=en&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
-        <br>
-        <img align="center" src="https://streak-stats.demolab.com/?user=srivishnuvarthan-07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-      </div>
+<div>
+  <h3>📌 About My Journey</h3>
+  <p>
+    Software Developer focused on DSA, Web, and building scalable editor systems.<br>
+    Active in competitive programming and open-source learning.
+  </p>
+<table align="center">
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=srivishnuvarthan-07&theme=tokyonight&hide_border=true&hide_title=true&show_icons=true" />
     </td>
-    <td width="50%" valign="top" style="border:none;">
-      <div align="center">
-        <h3>🏆 Competitive Programming</h3>
-        <p>Stats from my competitive programming journey.</p>
-        <img align="center" src="https://leetcard.jacoblin.cool/monster_14?theme=dark&font=Noto%20Sans%20JP" alt="LeetCode Stats" />
-        <br>
-        <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=sri_vishnu07&theme=dark" alt="Codeforces Stats"/>
-      </div>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srivishnuvarthan-07&layout=compact&locale=en&theme=tokyonight&hide_border=true&bg_color=00000000" />
     </td>
   </tr>
 </table>
+</div>
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+</p>
 
  <div align="center">
   <h2>💻 Technical Skills</h2>
