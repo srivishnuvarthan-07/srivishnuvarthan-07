@@ -2,26 +2,33 @@
 <p align="center">
   <img src="https://github.com/srivishnuvarthan-07/srivishnuvarthan-07/blob/main/github-header-banner.png?raw=true" />
 </p>
-<p align="left">
-  <a href="https://www.codechef.com/users/sri_vishnu07" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=3d2a21" alt="CodeChef 3★"/>
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=srivishnuvarthan-07&color=00D9FF&style=for-the-badge&label=Profile+Views)
+![GitHub User's stars](https://img.shields.io/github/stars/srivishnuvarthan-07?style=for-the-badge&logo=github&color=00D9FF&labelColor=000000)
+</div>
+<div align="center">
+  <p>
+    <a href="https://www.codechef.com/users/sri_vishnu07" target="_blank">
+      <img src="https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=3d2a21" alt="CodeChef 3★"/>
+    </a>
+  <a href="https://leetcode.com/u/monster_14/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-1847-black?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode Rating 1847"/>
   </a>
-<a href="https://leetcode.com/u/monster_14/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-1847-black?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode Rating 1847"/>
-</a>
-<a href="https://codeforces.com/profile/sri_vishnu07" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-1422-FF8C00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Rating 1422"/>
-</a>
-  <a href="mailto:vivvishnu321@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://codeforces.com/profile/sri_vishnu07" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1422-FF8C00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Rating 1422"/>
   </a>
-  <a href="https://www.linkedin.com/in/sri-vishnu-varthan-s-010b29294/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://codolio.com/profile/Srivishnu-07" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-FF6F00?style=for-the-badge&logo=codio&logoColor=white" alt="Codolio"/>
-  </a>
-</p>
+    <a href="mailto:vivvishnu321@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.linkedin.com/in/sri-vishnu-varthan-s-010b29294/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://codolio.com/profile/Srivishnu-07" target="_blank">
+      <img src="https://img.shields.io/badge/Codolio-FF6F00?style=for-the-badge&logo=codio&logoColor=white" alt="Codolio"/>
+    </a>
+  </p>
+</div>
 <div>
   <h3>📌 About My Journey</h3>
   <p>
